@@ -1,0 +1,39 @@
+[
+  {
+    "name":"Theme Settings",
+    "settings":[
+
+      {
+        "type":"text",
+        "id":"company_name",
+        "label":"Company Name",
+        "default":"Lakheni Technologies"
+      },
+
+      {
+        "type":"image_picker",
+        "id":"logo",
+        "label":"Company Logo"
+      },
+
+      {
+        "type":"text",
+        "id":"phone",
+        "label":"Telephone"
+      },
+
+      {
+        "type":"text",
+        "id":"email",
+        "label":"Email"
+      },
+
+      {
+        "type":"text",
+        "id":"whatsapp",
+        "label":"WhatsApp"
+      }
+
+    ]
+  }
+]
