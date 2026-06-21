@@ -1,0 +1,12 @@
+{
+  "name": "lakheni-pro-commerce",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Lakheni Technologies Shopify Theme",
+  "scripts": {
+    "dev": "shopify theme dev",
+    "pull": "shopify theme pull",
+    "push": "shopify theme push",
+    "check": "shopify theme check"
+  }
+}
